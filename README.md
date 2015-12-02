@@ -1,6 +1,5 @@
 期中網路程式設計
 # -
-<!DOCTYPE html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
